@@ -1,0 +1,7 @@
+# create virtual environment
+pip install speechrecognition pyaudio
+pip install setuptools
+pip install pyttsx3 
+pip install requests
+pip install python-dotenv
+
