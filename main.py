@@ -1,3 +1,5 @@
+# create virtual environment
+
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
